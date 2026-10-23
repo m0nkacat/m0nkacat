@@ -14,6 +14,7 @@
 - **[aspnet-shop-api](https://github.com/m0nkacat/aspnet-shop-api)**: REST API магазина · *shop REST API* · ASP.NET Core, AutoMapper
 - **[samokat-wpf](https://github.com/m0nkacat/samokat-wpf)**: служба доставки · *delivery service app* · WPF, EF6
 - **[qa-board-node](https://github.com/m0nkacat/qa-board-node)**: вопросы и задачи · *Q&A + todo* · Node.js, Express
+- **[short-higurashi-whentheycry-ch1](https://github.com/sdformeky/short-higurashi-whentheycry-ch1)**: текстовая игра по Higurashi, командный проект · *text adventure, team project* · Python, pygame
 - **[java-chat](https://github.com/m0nkacat/java-chat)**: чат на сокетах · *socket chat* · Java
 - **[java-tetris](https://github.com/m0nkacat/java-tetris)**: тетрис · *Tetris* · Java Swing
 - **[pr2_flutter](https://github.com/m0nkacat/pr2_flutter)**: заметки · *notes app* · Flutter
