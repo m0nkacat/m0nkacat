@@ -2,7 +2,9 @@
 
 Пишу бэкенд и десктоп на Java, C# и Python · *Backend & desktop development with Java, C# and Python*
 
-`Java` `Spring Boot` `C#` `ASP.NET Core` `WPF` `Python` `Node.js` `Dart` `PostgreSQL` `SQL Server`
+Хочу разобраться в ML и Data Science · *Diving into ML and Data Science*
+
+`Java` `Spring Boot` `C#` `ASP.NET Core` `WPF` `Python` `Node.js` `Dart` `PostgreSQL` `SQL Server` `Pandas` `Jupyter`
 
 #### Проекты · Projects
 
