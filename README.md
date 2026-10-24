@@ -20,7 +20,7 @@ Backend and desktop developer working with Java, C# and Python. Currently learni
 | [qa-board-node](https://github.com/m0nkacat/qa-board-node) | Q&A and todo web app | Node.js, Express |
 | [java-chat](https://github.com/m0nkacat/java-chat) | Multi-user socket chat | Java |
 | [java-tetris](https://github.com/m0nkacat/java-tetris) | Tetris | Java Swing |
-| [pr2_flutter](https://github.com/m0nkacat/pr2_flutter) | Notes app | Flutter |
+| [pr2_flutter](https://github.com/m0nkacat/pr2_flutter) | Notes app with Cubit state, themes and tests | Flutter, flutter_bloc |
 
 ## Team projects
 
